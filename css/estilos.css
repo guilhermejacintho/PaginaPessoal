@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://images6.alphacoders.com/727/727287.jpg');
+    background-size: 100vw auto;
+    font-family: Consolas;
+    height: 100vh ;
+  }
+  
+  .menu {
+    background-color: #c0c0ff;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: blueviolet;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,  
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  } 
